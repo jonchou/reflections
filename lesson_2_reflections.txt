@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 	When you initialize a repository, it allows the directory to push commits. This allows the user to be able to start using git and keep track of their files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area is the area where you decide what to commit into the repository. It is inbetween the working directory and repository. It allows you the user to commit a certain file instead of all files at once if the user wishes.
