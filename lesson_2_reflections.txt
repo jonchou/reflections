@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	When you initialize a repository, it allows the directory to push commits. This allows the user to be able to start using git and keep track of their files.
